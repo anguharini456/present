@@ -1,0 +1,8 @@
+.image{
+    background-image: url("./image/picture.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75dvh;
+    background-image: linear-gradient(rgba("12,8,8,0.5"),rgba("21,48,73,0.7"),url("./picture.jpg")) !important;
+}
